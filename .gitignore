@@ -1,5 +1,1 @@
-#ignore compiled C++ files
-*.o
-*.out
-*
-!*.cpp
+main
